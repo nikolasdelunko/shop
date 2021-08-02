@@ -1,6 +1,6 @@
 const gulp = require('gulp');
 const concat = require('gulp-concat');
-// const clean = require('gulp-clean');
+const clean = require('gulp-clean');
 const imagemin = require('gulp-imagemin');
 const browserSync = require('browser-sync').create();
 const sass = require('gulp-sass');
@@ -80,7 +80,7 @@ const buildIMG = () => (
 
 const cleanBuild = () => (
     gulp.src('build/', {allowEmpty: true})
-        // .pipe(clean())
+        .pipe(clean())
 );
 
 function emptyDist() {
