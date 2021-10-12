@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Rybashka",
+    "price": 190,
+    "article": 1,
+    "url": "https://cutur.ru/wp-content/uploads/_pu/3/43484582.jpg",
+    "color": "blue"
+  },
+  {
+    "title": "Chebyrashka",
+    "price": 520,
+    "article": 2,
+    "url": "https://platoshka.com.ua/image/cache/catalog/products/img_products/00-00000228_00-1200x1200.jpg",
+    "color": "braun"
+  },
+  {
+    "title": "Pyatachok",
+    "price": 300,
+    "article": 3,
+    "url": "http://images.vfl.ru/ii/1618918661/e189ee7f/34152420.png",
+    "color": "Pink"
+  },
+  {
+    "title": "NifNif",
+    "price": 315,
+    "article": 4,
+    "url": "https://cdn2.boutique-jourdefete.com/imgs/8cf0827866dd5b341bf41052ec2e3a19/mascotte-cochon-bleu.jpg",
+    "color": "Pink"
+  },
+  {
+    "title": "NafNaf",
+    "price": 350,
+    "article": 5,
+    "url": "https://naivno.com/images/shop_items/2725.jpg",
+    "color": "Pink"
+  },
+  {
+    "title": "NufNUf",
+    "price": 400,
+    "article": 6,
+    "url": "https://images.shafastatic.net/65183371",
+    "color": "Pink"
+  },
+  {
+    "title": "Hata",
+    "price": 1000,
+    "article": 7,
+    "url": "http://pics.livejournal.com/vv_cephei/pic/00083397/s640x480",
+    "color": "Grey"
+  },
+  {
+    "title": "Wolk",
+    "price": 1,
+    "article": 8,
+    "url": "https://img2.freepng.ru/20180322/tre/kisspng-dog-fairy-tale-presentation-clip-art-wolf-5ab446b59eaf79.87107719152176402165.jpg",
+    "color": "grey"
+  },
+  {
+    "title": "Hapachka",
+    "price": 99,
+    "article": 9,
+    "url": "https://ua.all.biz/img/ua/catalog/24622184.jpeg",
+    "color": "red"
+  },
+  {
+    "title": "Kotik",
+    "price": 75,
+    "article": 10,
+    "url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/14236/production/_104368428_gettyimages-543560762.jpg",
+    "color": "White"
+  },
+  {
+    "title": "Sobachka",
+    "price": 95,
+    "article": 11,
+    "url": "https://images.ua.prom.st/2753874483_w640_h640_interaktivnaya-sobachka-.jpg",
+    "color": "black"
+  },
+  {
+    "title": "Palka",
+    "price": 1,
+    "article": 12,
+    "url": "https://cs12.pikabu.ru/post_img/2021/03/28/7/161693107918099519.jpg",
+    "color": "Braun"
+  }
+]

@@ -1,0 +1,36 @@
+.input-adress {
+    resize: none
+}
+
+.iput-names{
+    display: flex;
+    justify-content: center;
+}
+
+.Reg-iputs {
+    display: flex;
+    flex-direction: column;
+    /*flex-wrap: wrap;*/
+}
+
+.error-form {
+    font-size: 14px;
+    margin: 1px;
+    color: white;
+}
+
+.form {
+    /*width: 540px;*/
+    margin-top: -25px;
+}
+
+.Control-Form{
+    display: flex;
+}
+
+
+/*.form{*/
+/*border: 1px solid white;*/
+/*margin: -15px;*/
+/*border-radius: 9px;*/
+/*}*/

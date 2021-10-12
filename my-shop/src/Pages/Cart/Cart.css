@@ -1,0 +1,16 @@
+.Cart-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Cart-content {
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Cart-btn {
+    display: flex;
+    justify-content: end;
+}

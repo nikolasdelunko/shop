@@ -1,0 +1,76 @@
+
+
+li{
+  text-decoration: none;
+  list-style: none;
+}
+
+body{
+  background-color: #989696;
+  width: 100%;
+  height: 50px;
+  background: radial-gradient(#000000 5%, transparent 20%) 0 0, radial-gradient(rgba(0, 0, 0, 0.1) 1%, transparent 0%) 50px 50px;
+  background-color: #fff;
+  background-size: 5px 5px;
+}
+
+.Main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  min-height: 100%;
+
+}
+
+.color {
+  padding: 20px;
+}
+
+.items-page{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 800px;
+  grid-area: main;
+}
+
+.list-items{
+  display: flex;
+  margin-bottom: 25px;
+  border-radius: 9px;
+  background-color: #ffffff;
+}
+
+.card-product{
+  width: 250px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.lds-spinner{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, 150%)
+}
+
+.card-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Star {
+  margin-left: 25px;
+  cursor: pointer;
+}
+
+.active{
+  fill: rgb(253, 0, 6);
+}
+

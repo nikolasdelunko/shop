@@ -1,0 +1,11 @@
+.Fevorites-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.favorites-content{
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+}
